@@ -1,3 +1,8 @@
 h1 {
     background-color: aqua;
+    font-weight: bold;
+}
+p{
+    font-size: 12px;
+    background-color: blueviolet;
 }
